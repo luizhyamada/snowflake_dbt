@@ -1,0 +1,5 @@
+dbt-core
+dbt-snowflake
+boto3
+faker
+pandas
